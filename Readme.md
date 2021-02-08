@@ -1,4 +1,4 @@
-# CRUD Simpel menggunakan Django Framework (Bahasa Indonesia)
+# CRUD Simpel menggunakan Django Framework
 
 ## Tutorial
 
