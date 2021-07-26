@@ -41,7 +41,7 @@ py manage.py runserver
 untuk akses kedalam aplikasi silahkan kunjungi http://127.0.0.1:8000/ 
 
 ### Dokumentasi Django Lebih lengkap
-- Cek disini https://codinglan.blogspot.com/2021/02/crud-simpel-menggunakan-django.html
+- Cek disini https://www.samuelpasaribu.com/2021/02/crud-simpel-menggunakan-django.html
 
 
 
